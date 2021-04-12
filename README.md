@@ -11,4 +11,4 @@ contributors -  Nadja Antonjak
 
 4.Throughout this assignment the biggest thing I learned was how to incorporate the skills I've learnt in class and apply it to my assignment. Implementing what we learned throughout the week in class on how to apply data through API'S really put the assignment together in the end as it activates the system and updates the board.
 
-5.
+5.I believe my weather board is set to stand out due to the clear simple display it contains, its not over done and confusing, it potrays the weater accurately and clear . yet, i have benefitialy used css to draw attention to important sections on the page that need to stand out and be seen. Everything is put in a specific place spaced out and eye catching colours.
