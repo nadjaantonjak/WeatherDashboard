@@ -1,4 +1,4 @@
-![IMG_7540](https://user-images.githubusercontent.com/79078061/114396150-8fa70780-9be0-11eb-8e8b-13635e3b1473.JPG)
+
 # WeatherDashboard
 
 Creating a weather dashboard that showcases the weather for any city you search up across the world.
