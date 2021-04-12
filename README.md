@@ -1,3 +1,4 @@
+![IMG_7541](https://user-images.githubusercontent.com/79078061/114397821-7010de80-9be2-11eb-8711-a24f324f0f13.JPG)
 
 # WeatherDashboard
 
