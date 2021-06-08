@@ -1,5 +1,5 @@
 
-var owmAPI = "d6b4fd1efef85db37e2a3f3cd63bb491";
+var owmAPI = "6a68bb673292ce3307d4587f82123797";
 var currentCity = "";
 var lastCity = "";
 
